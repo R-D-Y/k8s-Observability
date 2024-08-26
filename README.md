@@ -96,6 +96,8 @@ Create dashboards and panels in Grafana to query and visualize the logs being co
 - **Secrets Management**: AWS credentials are securely managed using HashiCorp Vault to prevent them from being exposed in plain text.
 - **Data Durability**: By storing logs in S3, the system ensures high durability and availability.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 
